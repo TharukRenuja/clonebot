@@ -1,4 +1,4 @@
-# [Clone Bot](https://github.com/m4mallu/clonebot)
+# [Clone Bot](https://github.com/TharukRenuja/clonebot)
 
 #### A simple telegram bot to clone Medias from one chat to another
 
@@ -28,7 +28,7 @@ TG_USER_SESSION - Run any userbot session maker (https://repl.it/@ayrahikari/pyr
 ```
 ### Deploy Easy Way:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/m4mallu/clonebot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TharukRenuja/clonebot)
 
 ### Deploy Hard Way:
 
@@ -41,7 +41,7 @@ class Config(object):
     API_HASH = "1a417dd4fdf3ead2819ff35641daa16b"
     TG_USER_SESSION = "BQDGRUC0_qw2GVQ2gpLFaXOt0mrWg16cBZPATQvR8KThDzi-NRE1I9DB......"
 ```
-[User session string can be generated from HERE](https://replit.com/@ayrahikari/pyrogram-session-maker)
+[User session string can be generated from HERE](https://replit.com/@PDTharukRenuja/Pyrogram-String-Session)
 
 #### Run the following:
 
